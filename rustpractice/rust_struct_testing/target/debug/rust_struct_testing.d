@@ -1,0 +1,1 @@
+/workspaces/OSFALL_2024/rustpractice/rust_struct_testing/target/debug/rust_struct_testing: /workspaces/OSFALL_2024/rustpractice/rust_struct_testing/src/main.rs /workspaces/OSFALL_2024/rustpractice/rust_struct_testing/src/rectangle.rs
